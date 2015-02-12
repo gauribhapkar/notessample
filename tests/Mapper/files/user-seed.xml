@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<dataset>
+    <table name="user">
+        <column>id</column>
+        <column>firstName</column>
+        <column>lastName</column>
+        <column>email</column>
+      <row>
+            <value>1</value>
+            <value>Gauri</value>
+            <value>Bhapkar</value>
+            <value>gau.bhapkar@gmail.com</value>
+        </row>
+        <row>
+            <value>2</value>
+            <value>gaurav</value>
+            <value>bhapkar</value>
+            <value>gaurav@gmail.com</value>
+        </row>
+    </table>
+</dataset>
+
